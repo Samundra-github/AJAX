@@ -8,3 +8,17 @@
 body {
     background-color: #d9d9d9;
 }
+
+/* Form Page */
+
+.form-error {
+    color: red;
+}
+
+.form-success {
+    color: green;
+}
+
+.input-error {
+    box-shadow: 0 0 5px red;
+}
